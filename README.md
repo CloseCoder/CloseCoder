@@ -4,12 +4,20 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47B8F7&lines=Python+Developer;Front-End+Developer;)](https://git.io/typing-svg)
 ***
-# [![trophy](https://github-profile-trophy.vercel.app/?username=KarimjonovSodiq)](https://github.com/KarimjonovSodiq/github-profile-trophy)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KarimjonovSodiq"</img></div>
+<br></br>
+
 ---
-###### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarimjonovSodiq)](https://git.io/streak-stats)
+
+<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=KarimjonovSodiq" </img></div>
+
 ***
-#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimjonovSodiq)](https://github.com/KarimjonovSodiq/github-readme-stats)
+
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimjonovSodiq" </img></div>
+
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimjonovSodiq)](https://github.com/KarimjonovSodiq/github-readme-stats)
+
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=KarimjonovSodiq" </img></div>
+
 ***
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark)](https://github.com/KrimjonovSodiq/github-readme-activity-graph)
+<div align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark" </img></div>
