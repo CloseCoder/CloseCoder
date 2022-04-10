@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://closecoder.cf/" target="_blank">Sodiq</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47B8F7&lines=Computer+science+student;Developer+from+Uzbekistan)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
