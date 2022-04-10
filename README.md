@@ -11,3 +11,5 @@
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimjonovSodiq)](https://github.com/KarimjonovSodiq/github-readme-stats)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimjonovSodiq)](https://github.com/KarimjonovSodiq/github-readme-stats)
+***
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark)](https://github.com/KrimjonovSodiq/github-readme-activity-graph)
