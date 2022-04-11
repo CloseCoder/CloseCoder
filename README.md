@@ -10,6 +10,10 @@
 
 ---
 
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarimjonovSodiq&theme=vue"</img></div>
+
+***
+
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=KarimjonovSodiq" </img></div>
 
 ***
@@ -17,6 +21,7 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KarimjonovSodiq&column=3&margin-w=15&margin-h=15&theme=juicyfresh"</img></div>
 
 ---
+
 <div align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark" </img></div>
 
 
