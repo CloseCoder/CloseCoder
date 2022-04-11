@@ -18,7 +18,7 @@
 
 ***
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KarimjonovSodiq&column=3&margin-w=15&margin-h=15&theme=juicyfresh"</img></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KarimjonovSodiq&column=3&margin-w=15&margin-h=15&theme=juicyfresh&no-bg=true"</img></div>
 
 ---
 
