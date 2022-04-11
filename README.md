@@ -28,6 +28,9 @@
 ---
 
 <div style="display:block;">
+
+>Skills
+  
 <a href="https://t.me/Projects_mine" >
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"</img>
