@@ -27,14 +27,16 @@
 
 ---
 
-<a href="https://t.me/Projects_mine">
+<div style="display:block;">
+<a href="https://t.me/Projects_mine" >
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"</img>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img>
 </a>
+</div>
 
 ***
 
-<a href="https://t.me/Close_Coder">
+<a style="display:inline;" href="https://t.me/Close_Coder">
 <img src="https://www.freepnglogos.com/uploads/telegram-logo-image-1.png" width="50"</img>
 </a>
