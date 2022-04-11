@@ -20,16 +20,16 @@
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=KarimjonovSodiq" </img></div>
 
 ***
+
 <div align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark" </img></div>
 ---
 
-<div class="skillBar">
-	<div class="skillBar_{50 to 100} bar{Color Theme Name}">
-		<span class="skillArea">{Any Text}</span>
-		<span class="percentText">{Percentage Text}</span>
-	</div>
-</div>
 
 ---
 
-<a href="https://t.me/Close_Coder"><img src=""></img></a>
+<a href="https://t.me/Projects_mine">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"</img>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img>
+</a>
+
