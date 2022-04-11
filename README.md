@@ -35,4 +35,6 @@
 
 ***
 
-<a href="https://t.me/Close_Coder" ><img src=""</img></a>
+<a href="https://t.me/Close_Coder">
+<img src="https://www.freepnglogos.com/uploads/telegram-logo-image-1.png" width="50"</img>
+</a>
