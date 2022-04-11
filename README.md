@@ -21,6 +21,15 @@
 
 ***
 <div align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark" </img></div>
+---
+
+<div class="skillBar">
+	<div class="skillBar_{50 to 100} bar{Color Theme Name}">
+		<span class="skillArea">{Any Text}</span>
+		<span class="percentText">{Percentage Text}</span>
+	</div>
+</div>
 
 ---
+
 <a href="https://t.me/Close_Coder"><img src=""></img></a>
