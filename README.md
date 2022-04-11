@@ -22,7 +22,7 @@
 
 ---
 
-<div align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark" </img></div>
+<div align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" </img></div>
 
 
 ***
