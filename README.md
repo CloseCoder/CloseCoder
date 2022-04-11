@@ -35,4 +35,4 @@
 
 ***
 
-<a href="https://t.me/Close_Coder" ><img src="https://www.flaticon.com/free-icon/telegram_2111646?term=social%20media%20telegram&page=1&position=3&page=1&position=3&related_id=2111646&or"</img></a>
+<a href="https://t.me/Close_Coder" ><img src=""</img></a>
