@@ -33,3 +33,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img>
 </a>
 
+***
+
+<a href="https://t.me/Close_Coder" ><img src="https://www.flaticon.com/free-icon/telegram_2111646?term=social%20media%20telegram&page=1&position=3&page=1&position=3&related_id=2111646&or"</img></a>
