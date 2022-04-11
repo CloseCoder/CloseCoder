@@ -4,8 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47B8F7&lines=Python+Developer;Front-End+Developer;)](https://git.io/typing-svg)
 ***
-
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimjonovSodiq" </img></div>
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=KarimjonovSodiq" </img></div>
 <br></br>
 
 ---
@@ -18,7 +17,7 @@
 
 ---
 
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=KarimjonovSodiq" </img></div>
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimjonovSodiq" </img></div>
 
 ***
 
