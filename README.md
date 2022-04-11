@@ -21,3 +21,6 @@
 
 ***
 <div align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=KarimjonovSodiq&theme=react-dark" </img></div>
+
+---
+<a href="https://t.me/Close_Coder"><img src=""></img></a>
