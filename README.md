@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi everyone, I'm <a href="https://CloseCoder.cf" target="_blank">Sodiq</a></h1>
+<h1 align="center"> Hi everyone, I'm <a href="https://CloseCoder.cf" target="_blank">Sodiq</a></h1>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{KarimjonovSodiq}1212%2Fhit-counter" height="32"/>
 
 > Develper from Uzbekistan 🇺🇿
