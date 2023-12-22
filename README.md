@@ -1,7 +1,7 @@
 <h1 align="center"> Hi everyone, I'm <a href="https://CloseCoder.cf" target="_blank">Sodiq</a></h1>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{KarimjonovSodiq}1212%2Fhit-counter" height="32"/>
 
-> Develper from Uzbekistan 🇺🇿
+> Developer from Uzbekistan 🇺🇿
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47B8F7&lines=Python+Developer;Front-End+Developer;)](https://git.io/typing-svg)
 ***
