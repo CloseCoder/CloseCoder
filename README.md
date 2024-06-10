@@ -3,7 +3,6 @@
 
 > Developer from Uzbekistan 🇺🇿
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47B8F7&lines=PYTHON+Coder;CPP+Coder;)](https://git.io/typing-svg)
 ***
 >Stats
 
